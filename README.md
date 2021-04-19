@@ -72,8 +72,8 @@ node ./src/index.js
 
 MIT
 
-**Free Software, Hell Yeah!**
-**Make sure to share this with others!**
+**Paid Software via Yeah#0001!**
+**Share and we will just reset things and your bot wont work!**
 
 ## Need Support?
 Join our support [server][Sup]
