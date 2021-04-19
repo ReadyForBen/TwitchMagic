@@ -28,7 +28,7 @@ Icefrost Reimagined uses a number of open source projects to work properly:
 
 - [jQuery] - uh yeah duh
 
-And of course Wizzy open source with a [public repository][dill]
+And of course Icefrost Reimagined source with a [private repository][dill]
  on GitHub.
 
 ## Installation
