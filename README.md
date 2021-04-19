@@ -1,10 +1,10 @@
-# Wizzy
-## _Twitch Follows - Reimagined_
+# Icefrost Reimagined
+## _Twitch Follows - Reimagined by Icefrost#0001 & Yeah#0001_
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Wizzy is a cloud-enabled, self-hosted discord to twitch follow bot.
+Icefrost Reimagined source code is a cloud-enabled, self-hosted discord to twitch follow bot.
 - Follow Users from Discord
 - Set Cooldowns
 - ✨Custom Plans Supported✨
@@ -20,7 +20,7 @@ Wizzy is a cloud-enabled, self-hosted discord to twitch follow bot.
 
 ## Tech
 
-Wizzy uses a number of open source projects to work properly:
+Icefrost Reimagined uses a number of open source projects to work properly:
 
 - [DiscordJs] - Discord Package
 - [node.js] - evented I/O for the backend
@@ -33,7 +33,7 @@ And of course Wizzy itself is open source with a [public repository][dill]
 
 ## Installation
 
-Wizzy requires [Node.js](https://nodejs.org/) v12+ to run.
+Icefrost Reimagined requires [Node.js](https://nodejs.org/) v12+ to run.
 
 Install the dependencies 
 ```sh
@@ -50,10 +50,10 @@ Want to suggest a feature? Make a issue with your suggestion.
 
 ## Repl.it
 
-Wizzy is very easy to install and deploy in a Repl.it project.
+Icefrost Reimagined is very easy to install and deploy in a Repl.it project.
 
 Clone our [repo][dill]
-This will create the Wizzy repo and pull in the necessary dependencies.
+This will create the Icefrost Reimagined repo and pull in the necessary dependencies.
 
 
 Next Configure your discord token, and other details needed.
@@ -80,8 +80,8 @@ Join our support [server][Sup]
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [dill]: <https://github.com/WaltDisneyWorld/twitch-follow-bot-discord>
-   [git-repo-url]: <https://github.com/WaltDisneyworld/twitch-follow-bot-discord.git>
+   [dill]: <https://github.com/ReadyForBen/TwitchMagic>
+   [git-repo-url]: <https://github.com/ReadyForBen/TwitchMagic,git>
    [john gruber]: <http://daringfireball.net>
    [df1]: <http://daringfireball.net/projects/markdown/>
    [markdown-it]: <https://github.com/markdown-it/markdown-it>
@@ -89,7 +89,7 @@ Join our support [server][Sup]
    [node.js]: <http://nodejs.org>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
    [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+   [@tjholowaychuk]: <http://twitter.com/Ben_Verdis>
    [express]: <http://expressjs.com>
    [DiscordJs]: <https://discord.js.org>
    [Gulp]: <http://gulpjs.com>
