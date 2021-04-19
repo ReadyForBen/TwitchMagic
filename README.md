@@ -7,7 +7,7 @@
 Icefrost Reimagined source code is a cloud-enabled, self-hosted discord to twitch follow bot.
 - Follow Users from Discord
 - Set Cooldowns
-- ✨Custom Plans Supported✨
+- ✨Custom Plans supported✨
 
 ## Features
 
@@ -93,7 +93,7 @@ Join our support [server][Sup]
    [express]: <http://expressjs.com>
    [DiscordJs]: <https://discord.js.org>
    [Gulp]: <http://gulpjs.com>
-[sup]: <https://discord.gg/EWDnQ2PcXk>
+  [sup]: <https://discord.gg/d5dbeNarAq>
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
    [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
