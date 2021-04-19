@@ -24,11 +24,11 @@ Icefrost Reimagined uses a number of open source projects to work properly:
 
 - [DiscordJs] - Discord Package
 - [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
+- [Express] - fast node.js network app framework [@VerdisBen]
 
 - [jQuery] - uh yeah duh
 
-And of course Wizzy itself is open source with a [public repository][dill]
+And of course Wizzy open source with a [public repository][dill]
  on GitHub.
 
 ## Installation
@@ -89,7 +89,7 @@ Join our support [server][Sup]
    [node.js]: <http://nodejs.org>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
    [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/Ben_Verdis>
+   [@VerdisBen]: <http://twitter.com/Ben_Verdis>
    [express]: <http://expressjs.com>
    [DiscordJs]: <https://discord.js.org>
    [Gulp]: <http://gulpjs.com>
